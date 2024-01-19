@@ -7,7 +7,7 @@
 To create your zkGraph project based on this template:
 
 Option 1:
-
+ 
 Click `Use this template`, and `Creating a new repository`.
 
 Option 2:
