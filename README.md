@@ -1,4 +1,4 @@
-# zkGraph Template
+# zkGraph for ERC721 Token Transfers
 
 > **_NOTE:_**  For the latest version, please check out [zkgraph-cli](https://github.com/hyperoracle/zkgraph-cli).
 
